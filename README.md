@@ -291,6 +291,9 @@ airflow scheduler
 - Drift detection scheduling
 
 
+# This is a new  repo because of the old repo got misconifgured
+old repo link - https://github.com/VenkatSaiMinfy/Final_Capstone_Local_Development
+
 # For Production Level Code Access this repo
 ```text
 https://github.com/VenkatSaiMinfy/Final_Capstone_Production
